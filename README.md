@@ -1,10 +1,10 @@
 公网用户
    │
    ▼
-[ Cloudflare / 域名DNS ] ── 可选，但加上很加分
+[ Cloudflare / 域名DNS ] ──
    │
    ▼
-[ WAF ] ── 华为云WAF，防SQL注入/XSS，说明你有安全意识
+[ WAF ] ── 华为云WAF，防SQL注入/XSS
    │
    ▼
 [ ELB ] ── 转发到后端ECS集群
